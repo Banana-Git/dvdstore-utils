@@ -30,8 +30,8 @@
           <elementProp name="HTTPsampler.Arguments" elementType="Arguments" guiclass="HTTPArgumentsPanel" testclass="Arguments" testname="User Defined Variables" enabled="true">
             <collectionProp name="Arguments.arguments"/>
           </elementProp>
-          <stringProp name="HTTPSampler.domain">0.0.0.0</stringProp>
-          <stringProp name="HTTPSampler.port">6781</stringProp>
+          <stringProp name="HTTPSampler.domain">dvdstore</stringProp>
+          <stringProp name="HTTPSampler.port">8080</stringProp>
           <stringProp name="HTTPSampler.connect_timeout"></stringProp>
           <stringProp name="HTTPSampler.response_timeout"></stringProp>
           <stringProp name="HTTPSampler.protocol"></stringProp>
@@ -122,7 +122,7 @@
                 </elementProp>
                 <elementProp name="Referer" elementType="Header">
                   <stringProp name="Header.name">Referer</stringProp>
-                  <stringProp name="Header.value">http://0.0.0.0:6781/dvdstore/screen.css</stringProp>
+                  <stringProp name="Header.value">http://dvdstore:8080/dvdstore/screen.css</stringProp>
                 </elementProp>
                 <elementProp name="Accept-Encoding" elementType="Header">
                   <stringProp name="Header.name">Accept-Encoding</stringProp>
@@ -208,7 +208,7 @@
                 </elementProp>
                 <elementProp name="Referer" elementType="Header">
                   <stringProp name="Header.name">Referer</stringProp>
-                  <stringProp name="Header.value">http://0.0.0.0:6781/dvdstore/home</stringProp>
+                  <stringProp name="Header.value">http://dvdstore:8080/dvdstore/home</stringProp>
                 </elementProp>
                 <elementProp name="Accept-Encoding" elementType="Header">
                   <stringProp name="Header.name">Accept-Encoding</stringProp>
@@ -255,7 +255,7 @@
                 </elementProp>
                 <elementProp name="Referer" elementType="Header">
                   <stringProp name="Header.name">Referer</stringProp>
-                  <stringProp name="Header.value">http://0.0.0.0:6781/dvdstore/screen.css</stringProp>
+                  <stringProp name="Header.value">http://dvdstore:8080/dvdstore/screen.css</stringProp>
                 </elementProp>
                 <elementProp name="Accept-Encoding" elementType="Header">
                   <stringProp name="Header.name">Accept-Encoding</stringProp>
@@ -302,7 +302,7 @@
                 </elementProp>
                 <elementProp name="Referer" elementType="Header">
                   <stringProp name="Header.name">Referer</stringProp>
-                  <stringProp name="Header.value">http://0.0.0.0:6781/dvdstore/home</stringProp>
+                  <stringProp name="Header.value">http://dvdstore:8080/dvdstore/home</stringProp>
                 </elementProp>
                 <elementProp name="Accept-Encoding" elementType="Header">
                   <stringProp name="Header.name">Accept-Encoding</stringProp>
@@ -349,7 +349,7 @@
                 </elementProp>
                 <elementProp name="Referer" elementType="Header">
                   <stringProp name="Header.name">Referer</stringProp>
-                  <stringProp name="Header.value">http://0.0.0.0:6781/dvdstore/screen.css</stringProp>
+                  <stringProp name="Header.value">http://dvdstore:8080/dvdstore/screen.css</stringProp>
                 </elementProp>
                 <elementProp name="Accept-Encoding" elementType="Header">
                   <stringProp name="Header.name">Accept-Encoding</stringProp>
@@ -404,7 +404,7 @@
                 </elementProp>
                 <elementProp name="Referer" elementType="Header">
                   <stringProp name="Header.name">Referer</stringProp>
-                  <stringProp name="Header.value">http://0.0.0.0:6781/dvdstore/browse</stringProp>
+                  <stringProp name="Header.value">http://dvdstore:8080/dvdstore/browse</stringProp>
                 </elementProp>
                 <elementProp name="Accept-Encoding" elementType="Header">
                   <stringProp name="Header.name">Accept-Encoding</stringProp>
@@ -451,7 +451,7 @@
                 </elementProp>
                 <elementProp name="Referer" elementType="Header">
                   <stringProp name="Header.name">Referer</stringProp>
-                  <stringProp name="Header.value">http://0.0.0.0:6781/dvdstore/screen.css</stringProp>
+                  <stringProp name="Header.value">http://dvdstore:8080/dvdstore/screen.css</stringProp>
                 </elementProp>
                 <elementProp name="Accept-Encoding" elementType="Header">
                   <stringProp name="Header.name">Accept-Encoding</stringProp>
@@ -498,7 +498,7 @@
                 </elementProp>
                 <elementProp name="Referer" elementType="Header">
                   <stringProp name="Header.name">Referer</stringProp>
-                  <stringProp name="Header.value">http://0.0.0.0:6781/dvdstore/screen.css</stringProp>
+                  <stringProp name="Header.value">http://dvdstore:8080/dvdstore/screen.css</stringProp>
                 </elementProp>
                 <elementProp name="Accept-Encoding" elementType="Header">
                   <stringProp name="Header.name">Accept-Encoding</stringProp>
@@ -560,7 +560,7 @@
                 </elementProp>
                 <elementProp name="Referer" elementType="Header">
                   <stringProp name="Header.name">Referer</stringProp>
-                  <stringProp name="Header.value">http://0.0.0.0:6781/dvdstore/dvd/195?conversationId=15</stringProp>
+                  <stringProp name="Header.value">http://dvdstore:8080/dvdstore/dvd/195?conversationId=15</stringProp>
                 </elementProp>
                 <elementProp name="Accept-Encoding" elementType="Header">
                   <stringProp name="Header.name">Accept-Encoding</stringProp>
@@ -607,7 +607,7 @@
                 </elementProp>
                 <elementProp name="Referer" elementType="Header">
                   <stringProp name="Header.name">Referer</stringProp>
-                  <stringProp name="Header.value">http://0.0.0.0:6781/dvdstore/screen.css</stringProp>
+                  <stringProp name="Header.value">http://dvdstore:8080/dvdstore/screen.css</stringProp>
                 </elementProp>
                 <elementProp name="Accept-Encoding" elementType="Header">
                   <stringProp name="Header.name">Accept-Encoding</stringProp>
@@ -654,7 +654,7 @@
                 </elementProp>
                 <elementProp name="Referer" elementType="Header">
                   <stringProp name="Header.name">Referer</stringProp>
-                  <stringProp name="Header.value">http://0.0.0.0:6781/dvdstore/screen.css</stringProp>
+                  <stringProp name="Header.value">http://dvdstore:8080/dvdstore/screen.css</stringProp>
                 </elementProp>
                 <elementProp name="Accept-Encoding" elementType="Header">
                   <stringProp name="Header.name">Accept-Encoding</stringProp>
@@ -708,7 +708,7 @@
                 </elementProp>
                 <elementProp name="Referer" elementType="Header">
                   <stringProp name="Header.name">Referer</stringProp>
-                  <stringProp name="Header.value">http://0.0.0.0:6781/dvdstore/dvd/195?actionMethod=dvd.xhtml%3Asearch.addToCart&amp;conversationId=16</stringProp>
+                  <stringProp name="Header.value">http://dvdstore:8080/dvdstore/dvd/195?actionMethod=dvd.xhtml%3Asearch.addToCart&amp;conversationId=16</stringProp>
                 </elementProp>
                 <elementProp name="Accept-Encoding" elementType="Header">
                   <stringProp name="Header.name">Accept-Encoding</stringProp>
@@ -755,7 +755,7 @@
                 </elementProp>
                 <elementProp name="Referer" elementType="Header">
                   <stringProp name="Header.name">Referer</stringProp>
-                  <stringProp name="Header.value">http://0.0.0.0:6781/dvdstore/screen.css</stringProp>
+                  <stringProp name="Header.value">http://dvdstore:8080/dvdstore/screen.css</stringProp>
                 </elementProp>
                 <elementProp name="Accept-Encoding" elementType="Header">
                   <stringProp name="Header.name">Accept-Encoding</stringProp>
@@ -837,7 +837,7 @@
                 </elementProp>
                 <elementProp name="Referer" elementType="Header">
                   <stringProp name="Header.name">Referer</stringProp>
-                  <stringProp name="Header.value">http://0.0.0.0:6781/dvdstore/browse?conversationId=16</stringProp>
+                  <stringProp name="Header.value">http://dvdstore:8080/dvdstore/browse?conversationId=16</stringProp>
                 </elementProp>
                 <elementProp name="Accept-Encoding" elementType="Header">
                   <stringProp name="Header.name">Accept-Encoding</stringProp>
@@ -884,7 +884,7 @@
                 </elementProp>
                 <elementProp name="Referer" elementType="Header">
                   <stringProp name="Header.name">Referer</stringProp>
-                  <stringProp name="Header.value">http://0.0.0.0:6781/dvdstore/screen.css</stringProp>
+                  <stringProp name="Header.value">http://dvdstore:8080/dvdstore/screen.css</stringProp>
                 </elementProp>
                 <elementProp name="Accept-Encoding" elementType="Header">
                   <stringProp name="Header.name">Accept-Encoding</stringProp>
@@ -931,7 +931,7 @@
                 </elementProp>
                 <elementProp name="Referer" elementType="Header">
                   <stringProp name="Header.name">Referer</stringProp>
-                  <stringProp name="Header.value">http://0.0.0.0:6781/dvdstore/browse</stringProp>
+                  <stringProp name="Header.value">http://dvdstore:8080/dvdstore/browse</stringProp>
                 </elementProp>
                 <elementProp name="Accept-Encoding" elementType="Header">
                   <stringProp name="Header.name">Accept-Encoding</stringProp>
@@ -978,7 +978,7 @@
                 </elementProp>
                 <elementProp name="Referer" elementType="Header">
                   <stringProp name="Header.name">Referer</stringProp>
-                  <stringProp name="Header.value">http://0.0.0.0:6781/dvdstore/screen.css</stringProp>
+                  <stringProp name="Header.value">http://dvdstore:8080/dvdstore/screen.css</stringProp>
                 </elementProp>
                 <elementProp name="Accept-Encoding" elementType="Header">
                   <stringProp name="Header.name">Accept-Encoding</stringProp>
@@ -1025,7 +1025,7 @@
                 </elementProp>
                 <elementProp name="Referer" elementType="Header">
                   <stringProp name="Header.name">Referer</stringProp>
-                  <stringProp name="Header.value">http://0.0.0.0:6781/dvdstore/latestorders</stringProp>
+                  <stringProp name="Header.value">http://dvdstore:8080/dvdstore/latestorders</stringProp>
                 </elementProp>
                 <elementProp name="Accept-Encoding" elementType="Header">
                   <stringProp name="Header.name">Accept-Encoding</stringProp>
@@ -1072,7 +1072,7 @@
                 </elementProp>
                 <elementProp name="Referer" elementType="Header">
                   <stringProp name="Header.name">Referer</stringProp>
-                  <stringProp name="Header.value">http://0.0.0.0:6781/dvdstore/screen.css</stringProp>
+                  <stringProp name="Header.value">http://dvdstore:8080/dvdstore/screen.css</stringProp>
                 </elementProp>
                 <elementProp name="Accept-Encoding" elementType="Header">
                   <stringProp name="Header.name">Accept-Encoding</stringProp>
@@ -1119,7 +1119,7 @@
                 </elementProp>
                 <elementProp name="Referer" elementType="Header">
                   <stringProp name="Header.name">Referer</stringProp>
-                  <stringProp name="Header.value">http://0.0.0.0:6781/dvdstore/performancesettings?actionMethod=performancesettings.xhtml%3Aperformancesettings.changeSlowLongSearch%28%29&amp;conversationId=18</stringProp>
+                  <stringProp name="Header.value">http://dvdstore:8080/dvdstore/performancesettings?actionMethod=performancesettings.xhtml%3Aperformancesettings.changeSlowLongSearch%28%29&amp;conversationId=18</stringProp>
                 </elementProp>
                 <elementProp name="Accept-Encoding" elementType="Header">
                   <stringProp name="Header.name">Accept-Encoding</stringProp>
@@ -1166,7 +1166,7 @@
                 </elementProp>
                 <elementProp name="Referer" elementType="Header">
                   <stringProp name="Header.name">Referer</stringProp>
-                  <stringProp name="Header.value">http://0.0.0.0:6781/dvdstore/screen.css</stringProp>
+                  <stringProp name="Header.value">http://dvdstore:8080/dvdstore/screen.css</stringProp>
                 </elementProp>
                 <elementProp name="Accept-Encoding" elementType="Header">
                   <stringProp name="Header.name">Accept-Encoding</stringProp>
@@ -1253,7 +1253,7 @@
                 </elementProp>
                 <elementProp name="Referer" elementType="Header">
                   <stringProp name="Header.name">Referer</stringProp>
-                  <stringProp name="Header.value">http://0.0.0.0:6781/dvdstore/browse</stringProp>
+                  <stringProp name="Header.value">http://dvdstore:8080/dvdstore/browse</stringProp>
                 </elementProp>
                 <elementProp name="Accept-Encoding" elementType="Header">
                   <stringProp name="Header.name">Accept-Encoding</stringProp>
@@ -1300,7 +1300,7 @@
                 </elementProp>
                 <elementProp name="Referer" elementType="Header">
                   <stringProp name="Header.name">Referer</stringProp>
-                  <stringProp name="Header.value">http://0.0.0.0:6781/dvdstore/screen.css</stringProp>
+                  <stringProp name="Header.value">http://dvdstore:8080/dvdstore/screen.css</stringProp>
                 </elementProp>
                 <elementProp name="Accept-Encoding" elementType="Header">
                   <stringProp name="Header.name">Accept-Encoding</stringProp>
@@ -1347,7 +1347,7 @@
                 </elementProp>
                 <elementProp name="Referer" elementType="Header">
                   <stringProp name="Header.name">Referer</stringProp>
-                  <stringProp name="Header.value">http://0.0.0.0:6781/dvdstore/browse</stringProp>
+                  <stringProp name="Header.value">http://dvdstore:8080/dvdstore/browse</stringProp>
                 </elementProp>
                 <elementProp name="Accept-Encoding" elementType="Header">
                   <stringProp name="Header.name">Accept-Encoding</stringProp>
@@ -1394,7 +1394,7 @@
                 </elementProp>
                 <elementProp name="Referer" elementType="Header">
                   <stringProp name="Header.name">Referer</stringProp>
-                  <stringProp name="Header.value">http://0.0.0.0:6781/dvdstore/screen.css</stringProp>
+                  <stringProp name="Header.value">http://dvdstore:8080/dvdstore/screen.css</stringProp>
                 </elementProp>
                 <elementProp name="Accept-Encoding" elementType="Header">
                   <stringProp name="Header.name">Accept-Encoding</stringProp>
@@ -1441,7 +1441,7 @@
                 </elementProp>
                 <elementProp name="Referer" elementType="Header">
                   <stringProp name="Header.name">Referer</stringProp>
-                  <stringProp name="Header.value">http://0.0.0.0:6781/dvdstore/showorders</stringProp>
+                  <stringProp name="Header.value">http://dvdstore:8080/dvdstore/showorders</stringProp>
                 </elementProp>
                 <elementProp name="Accept-Encoding" elementType="Header">
                   <stringProp name="Header.name">Accept-Encoding</stringProp>
@@ -1488,7 +1488,7 @@
                 </elementProp>
                 <elementProp name="Referer" elementType="Header">
                   <stringProp name="Header.name">Referer</stringProp>
-                  <stringProp name="Header.value">http://0.0.0.0:6781/dvdstore/screen.css</stringProp>
+                  <stringProp name="Header.value">http://dvdstore:8080/dvdstore/screen.css</stringProp>
                 </elementProp>
                 <elementProp name="Accept-Encoding" elementType="Header">
                   <stringProp name="Header.name">Accept-Encoding</stringProp>
@@ -1535,7 +1535,7 @@
                 </elementProp>
                 <elementProp name="Referer" elementType="Header">
                   <stringProp name="Header.name">Referer</stringProp>
-                  <stringProp name="Header.value">http://0.0.0.0:6781/dvdstore/screen.css</stringProp>
+                  <stringProp name="Header.value">http://dvdstore:8080/dvdstore/screen.css</stringProp>
                 </elementProp>
                 <elementProp name="Accept-Encoding" elementType="Header">
                   <stringProp name="Header.name">Accept-Encoding</stringProp>
@@ -1615,7 +1615,7 @@
                 </elementProp>
                 <elementProp name="Referer" elementType="Header">
                   <stringProp name="Header.name">Referer</stringProp>
-                  <stringProp name="Header.value">http://0.0.0.0:6781/dvdstore/checkout</stringProp>
+                  <stringProp name="Header.value">http://dvdstore:8080/dvdstore/checkout</stringProp>
                 </elementProp>
                 <elementProp name="Accept-Encoding" elementType="Header">
                   <stringProp name="Header.name">Accept-Encoding</stringProp>
@@ -1662,7 +1662,7 @@
                 </elementProp>
                 <elementProp name="Referer" elementType="Header">
                   <stringProp name="Header.name">Referer</stringProp>
-                  <stringProp name="Header.value">http://0.0.0.0:6781/dvdstore/screen.css</stringProp>
+                  <stringProp name="Header.value">http://dvdstore:8080/dvdstore/screen.css</stringProp>
                 </elementProp>
                 <elementProp name="Accept-Encoding" elementType="Header">
                   <stringProp name="Header.name">Accept-Encoding</stringProp>
@@ -1749,7 +1749,7 @@
                 </elementProp>
                 <elementProp name="Referer" elementType="Header">
                   <stringProp name="Header.name">Referer</stringProp>
-                  <stringProp name="Header.value">http://0.0.0.0:6781/dvdstore/checkout</stringProp>
+                  <stringProp name="Header.value">http://dvdstore:8080/dvdstore/checkout</stringProp>
                 </elementProp>
                 <elementProp name="Accept-Encoding" elementType="Header">
                   <stringProp name="Header.name">Accept-Encoding</stringProp>
@@ -1796,7 +1796,7 @@
                 </elementProp>
                 <elementProp name="Referer" elementType="Header">
                   <stringProp name="Header.name">Referer</stringProp>
-                  <stringProp name="Header.value">http://0.0.0.0:6781/dvdstore/screen.css</stringProp>
+                  <stringProp name="Header.value">http://dvdstore:8080/dvdstore/screen.css</stringProp>
                 </elementProp>
                 <elementProp name="Accept-Encoding" elementType="Header">
                   <stringProp name="Header.name">Accept-Encoding</stringProp>
@@ -1858,7 +1858,7 @@
                 </elementProp>
                 <elementProp name="Referer" elementType="Header">
                   <stringProp name="Header.name">Referer</stringProp>
-                  <stringProp name="Header.value">http://0.0.0.0:6781/dvdstore/browse</stringProp>
+                  <stringProp name="Header.value">http://dvdstore:8080/dvdstore/browse</stringProp>
                 </elementProp>
                 <elementProp name="Accept-Encoding" elementType="Header">
                   <stringProp name="Header.name">Accept-Encoding</stringProp>
@@ -1905,7 +1905,7 @@
                 </elementProp>
                 <elementProp name="Referer" elementType="Header">
                   <stringProp name="Header.name">Referer</stringProp>
-                  <stringProp name="Header.value">http://0.0.0.0:6781/dvdstore/screen.css</stringProp>
+                  <stringProp name="Header.value">http://dvdstore:8080/dvdstore/screen.css</stringProp>
                 </elementProp>
                 <elementProp name="Accept-Encoding" elementType="Header">
                   <stringProp name="Header.name">Accept-Encoding</stringProp>
@@ -1952,7 +1952,7 @@
                 </elementProp>
                 <elementProp name="Referer" elementType="Header">
                   <stringProp name="Header.name">Referer</stringProp>
-                  <stringProp name="Header.value">http://0.0.0.0:6781/dvdstore/screen.css</stringProp>
+                  <stringProp name="Header.value">http://dvdstore:8080/dvdstore/screen.css</stringProp>
                 </elementProp>
                 <elementProp name="Accept-Encoding" elementType="Header">
                   <stringProp name="Header.name">Accept-Encoding</stringProp>
@@ -2012,7 +2012,7 @@
                 </elementProp>
                 <elementProp name="Referer" elementType="Header">
                   <stringProp name="Header.name">Referer</stringProp>
-                  <stringProp name="Header.value">http://0.0.0.0:6781/dvdstore/dvd/299?conversationId=25&amp;dataModelSelection=product%3AsearchResults%5B2%5D</stringProp>
+                  <stringProp name="Header.value">http://dvdstore:8080/dvdstore/dvd/299?conversationId=25&amp;dataModelSelection=product%3AsearchResults%5B2%5D</stringProp>
                 </elementProp>
                 <elementProp name="Accept-Encoding" elementType="Header">
                   <stringProp name="Header.name">Accept-Encoding</stringProp>
@@ -2059,7 +2059,7 @@
                 </elementProp>
                 <elementProp name="Referer" elementType="Header">
                   <stringProp name="Header.name">Referer</stringProp>
-                  <stringProp name="Header.value">http://0.0.0.0:6781/dvdstore/screen.css</stringProp>
+                  <stringProp name="Header.value">http://dvdstore:8080/dvdstore/screen.css</stringProp>
                 </elementProp>
                 <elementProp name="Accept-Encoding" elementType="Header">
                   <stringProp name="Header.name">Accept-Encoding</stringProp>
@@ -2106,7 +2106,7 @@
                 </elementProp>
                 <elementProp name="Referer" elementType="Header">
                   <stringProp name="Header.name">Referer</stringProp>
-                  <stringProp name="Header.value">http://0.0.0.0:6781/dvdstore/screen.css</stringProp>
+                  <stringProp name="Header.value">http://dvdstore:8080/dvdstore/screen.css</stringProp>
                 </elementProp>
                 <elementProp name="Accept-Encoding" elementType="Header">
                   <stringProp name="Header.name">Accept-Encoding</stringProp>
@@ -2153,7 +2153,7 @@
                 </elementProp>
                 <elementProp name="Referer" elementType="Header">
                   <stringProp name="Header.name">Referer</stringProp>
-                  <stringProp name="Header.value">http://0.0.0.0:6781/dvdstore/dvd/299?actionMethod=dvd.xhtml%3Asearch.addToCart&amp;conversationId=25</stringProp>
+                  <stringProp name="Header.value">http://dvdstore:8080/dvdstore/dvd/299?actionMethod=dvd.xhtml%3Asearch.addToCart&amp;conversationId=25</stringProp>
                 </elementProp>
                 <elementProp name="Accept-Encoding" elementType="Header">
                   <stringProp name="Header.name">Accept-Encoding</stringProp>
@@ -2200,7 +2200,7 @@
                 </elementProp>
                 <elementProp name="Referer" elementType="Header">
                   <stringProp name="Header.name">Referer</stringProp>
-                  <stringProp name="Header.value">http://0.0.0.0:6781/dvdstore/screen.css</stringProp>
+                  <stringProp name="Header.value">http://dvdstore:8080/dvdstore/screen.css</stringProp>
                 </elementProp>
                 <elementProp name="Accept-Encoding" elementType="Header">
                   <stringProp name="Header.name">Accept-Encoding</stringProp>
@@ -2247,7 +2247,7 @@
                 </elementProp>
                 <elementProp name="Referer" elementType="Header">
                   <stringProp name="Header.name">Referer</stringProp>
-                  <stringProp name="Header.value">http://0.0.0.0:6781/dvdstore/screen.css</stringProp>
+                  <stringProp name="Header.value">http://dvdstore:8080/dvdstore/screen.css</stringProp>
                 </elementProp>
                 <elementProp name="Accept-Encoding" elementType="Header">
                   <stringProp name="Header.name">Accept-Encoding</stringProp>
@@ -2329,7 +2329,7 @@
                 </elementProp>
                 <elementProp name="Referer" elementType="Header">
                   <stringProp name="Header.name">Referer</stringProp>
-                  <stringProp name="Header.value">http://0.0.0.0:6781/dvdstore/checkout</stringProp>
+                  <stringProp name="Header.value">http://dvdstore:8080/dvdstore/checkout</stringProp>
                 </elementProp>
                 <elementProp name="Accept-Encoding" elementType="Header">
                   <stringProp name="Header.name">Accept-Encoding</stringProp>
@@ -2376,7 +2376,7 @@
                 </elementProp>
                 <elementProp name="Referer" elementType="Header">
                   <stringProp name="Header.name">Referer</stringProp>
-                  <stringProp name="Header.value">http://0.0.0.0:6781/dvdstore/screen.css</stringProp>
+                  <stringProp name="Header.value">http://dvdstore:8080/dvdstore/screen.css</stringProp>
                 </elementProp>
                 <elementProp name="Accept-Encoding" elementType="Header">
                   <stringProp name="Header.name">Accept-Encoding</stringProp>
@@ -2423,7 +2423,7 @@
                 </elementProp>
                 <elementProp name="Referer" elementType="Header">
                   <stringProp name="Header.name">Referer</stringProp>
-                  <stringProp name="Header.value">http://0.0.0.0:6781/dvdstore/screen.css</stringProp>
+                  <stringProp name="Header.value">http://dvdstore:8080/dvdstore/screen.css</stringProp>
                 </elementProp>
                 <elementProp name="Accept-Encoding" elementType="Header">
                   <stringProp name="Header.name">Accept-Encoding</stringProp>
@@ -2493,7 +2493,7 @@
                 </elementProp>
                 <elementProp name="Referer" elementType="Header">
                   <stringProp name="Header.name">Referer</stringProp>
-                  <stringProp name="Header.value">http://0.0.0.0:6781/dvdstore/checkout</stringProp>
+                  <stringProp name="Header.value">http://dvdstore:8080/dvdstore/checkout</stringProp>
                 </elementProp>
                 <elementProp name="Accept-Encoding" elementType="Header">
                   <stringProp name="Header.name">Accept-Encoding</stringProp>
@@ -2583,7 +2583,7 @@
                 </elementProp>
                 <elementProp name="Referer" elementType="Header">
                   <stringProp name="Header.name">Referer</stringProp>
-                  <stringProp name="Header.value">http://0.0.0.0:6781/dvdstore/screen.css</stringProp>
+                  <stringProp name="Header.value">http://dvdstore:8080/dvdstore/screen.css</stringProp>
                 </elementProp>
                 <elementProp name="Accept-Encoding" elementType="Header">
                   <stringProp name="Header.name">Accept-Encoding</stringProp>
@@ -2656,7 +2656,7 @@
                 </elementProp>
                 <elementProp name="Referer" elementType="Header">
                   <stringProp name="Header.name">Referer</stringProp>
-                  <stringProp name="Header.value">http://0.0.0.0:6781/dvdstore/home</stringProp>
+                  <stringProp name="Header.value">http://dvdstore:8080/dvdstore/home</stringProp>
                 </elementProp>
                 <elementProp name="Accept-Encoding" elementType="Header">
                   <stringProp name="Header.name">Accept-Encoding</stringProp>
@@ -2703,7 +2703,7 @@
                 </elementProp>
                 <elementProp name="Referer" elementType="Header">
                   <stringProp name="Header.name">Referer</stringProp>
-                  <stringProp name="Header.value">http://0.0.0.0:6781/dvdstore/screen.css</stringProp>
+                  <stringProp name="Header.value">http://dvdstore:8080/dvdstore/screen.css</stringProp>
                 </elementProp>
                 <elementProp name="Accept-Encoding" elementType="Header">
                   <stringProp name="Header.name">Accept-Encoding</stringProp>
